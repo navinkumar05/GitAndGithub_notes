@@ -15,9 +15,7 @@ team cloabaroation, etc...
 
 note: pls create a github account as well.
 
-<p align="center">
-<img src="how to install vscode\2024-01-23_14-35.png" width="800">
-</p>
+<img src ="Attachments\2024-01-23_14-35.png" width=600>
 
 ## why I need learn git with VSCODE?
 
